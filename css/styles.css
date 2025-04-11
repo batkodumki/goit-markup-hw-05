@@ -577,9 +577,10 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
+  text-align: left;
   color: #2e2f42;
   margin-bottom: 16px;
+  
 }
 
 .modal-form-container {
@@ -613,6 +614,7 @@ img {
   color: #8e8f99;
   display: block;
   margin-bottom: 4px;
+  text-align: left;
 }
 
 .modal-icon-container {
